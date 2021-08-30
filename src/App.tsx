@@ -20,21 +20,21 @@ function App() {
           <table>
 
               <tr>
-                    <td><img src="html5.gif" alt="HTML5 Icon" width="128" height="128"/><br/>
+                    <td><img src="vanilla.gif" alt="vanilla" width="128" height="128"/><br/>
                     <label htmlFor="Vanilla">Vanilla</label></td>
                   
           
-                    <td><img src="html5.gif" alt="HTML5 Icon" width="128" height="128"/><br/>
-                    <label htmlFor="Vanilla">chocolate</label></td>
+                    <td><img src="chocolate.gif" alt="chocolate" width="128" height="128"/><br/>
+                    <label htmlFor="chocolate">chocolate</label></td>
                   
               
         
-                    <td><img src="html5.gif" alt="HTML5 Icon" width="128" height="128"/><br/>
-                    <label htmlFor="Vanilla">mustard</label></td>
+                    <td><img src="mustard.gif" alt="mustard" width="128" height="128"/><br/>
+                    <label htmlFor="mustard">mustard</label></td>
                   
               </tr>
               <tr>
-                    <td><label htmlFor="Scoops total: $0.00">Scoops total: $</label>
+                    <td><label htmlFor="Scoops total: $">Scoops total: $</label>
                     <input type="text" name="0.00"placeholder="0.00"/>
                     
                     </td>
