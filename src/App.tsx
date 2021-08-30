@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div className="App">
-      <p className="load">loading</p>
+      //<p className="load">loading</p>
       <form className="myForm">
 
           <label htmlFor="Scoops">Scoops</label>
